@@ -6,12 +6,12 @@
 - Common information about the drugs that shall be used in the equation.
 
 
-| Drug           | Dosage  |  Molecular Weight | Method of Delivery    |                                                            |
-|:---------------|:--------|:------------------|:----------------------|
-| Buprenorphine  | 0.3mg   | 467.64g/mol       | Infusion              |
-| Methadone      | 2.5-10mg| 309.445mg/mol     | Infusion              |
-| Tramadol       | 50mg    | 263.38g/mol       | Infusion              |
-| Tapentadol     | 50mg    | 221.339g/mol      | Gastrointestinal Tract|
+|Drug           |Dosage  |Molecular Weight |Method of Delivery    |   
+|:---|:---|:---|:---|
+|Buprenorphine  |0.3mg   |467.64g/mol       |Infusion              |
+|Methadone      |2.5-10mg|309.445mg/mol     |Infusion              |
+|Tramadol       |50mg    |263.38g/mol       |Infusion              |
+|Tapentadol     |50mg    |221.339g/mol      |Gastrointestinal Tract|
 
 
 - It is also key to gather the distriburation rate constants such k~b~, k~e~, and k~t~ from pharmaceutical studies among patients.
