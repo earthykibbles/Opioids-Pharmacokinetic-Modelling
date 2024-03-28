@@ -22,14 +22,14 @@
  #### Central Compartment 
 ```math
 $$
-\frac{\text{d}x_b}{\text{d}t} = -(k_b + k_e)x_b + k_tx_t\\
+\frac{\text{d}x_b}{\text{d}t} = -(k_b + k_e)x_b(t) + k_tx_t(t)\\
 $$
 ```
 
 #### Peripheral Compartment
 ```math
 $$
-\frac{\text{d}x_t}{\text{d}t} = k_bx_b - k_tx_t
+\frac{\text{d}x_t}{\text{d}t} = k_bx_b(t) - k_tx_t(t)
 $$
 ```
 
