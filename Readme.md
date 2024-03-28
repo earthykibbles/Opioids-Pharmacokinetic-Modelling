@@ -19,12 +19,20 @@
 ### The Model
 ![Two Compartment Model](images/image.png "title")
  
+ #### Central Compartment 
 ```math
 $$
 \frac{\text{d}x_b}{\text{d}t} = -(k_b + k_e)x_b + k_tx_t\\
-\frac{\text{d}x_t}{\text{d}t} = k_bx_b - k_tx_t\\
 $$
 ```
+
+#### Peripheral Compartment
+```math
+$$
+\frac{\text{d}x_t}{\text{d}t} = k_bx_b - k_tx_t
+$$
+```
+
 
 ### Results
 - The results captured observe the dynamics of drug concentration in different compartments over time.
