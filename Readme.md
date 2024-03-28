@@ -16,13 +16,15 @@
 - It is also key to gather the distribution rate constants such k~b~, k~e~, and k~t~ from pharmaceutical studies among patients.
 - These constants are distribution rates in blood (1st compartments), excretion rate through renal channels and distribution in tissue (2nd Compartment) respectively.
 
-### The Model
+<h3 style="text-align: center;" markdown="1">The Model</h3>
+
 ![Two Compartment Model](images/image.png "title")
  
 ```math
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 ```
 
-### Results
+<h3 style="text-align: center;" markdown="1">Results</h3>
+
 - The results captured observe the dynamics of drug concentration in different compartments over time.
 
