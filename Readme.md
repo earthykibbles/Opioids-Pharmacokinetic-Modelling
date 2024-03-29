@@ -17,9 +17,9 @@
 - These constants are distribution rates in blood (1st compartments), excretion rate through renal channels and distribution in tissue (2nd Compartment) respectively.
 
 ### The Model
-![Two Compartment Model](images/image.png "title")
+![Two Compartment Model](images/image.png "Two Compartment Model")
  
- #### Central Compartment 
+#### Central Compartment
 ```math
 $$
 \frac{\text{d}x_b}{\text{d}t} = -(k_b + k_e)x_b(t) + k_tx_t(t)
@@ -44,6 +44,11 @@ These constants are gathered from pharmaceutical studies done on each drug by in
 |Tramadol     |    |    |    |
 |Tapentadol   |    |    |    |
 
+### What to Observe
+1. Observe the dynamics of drug concentration in different compartments over time.
+2. Observe the minimum time it takes to achieve therapeutic concentration.
+3. Observe the time it takes for the drug to fully wash away from the body.
+4. Observe the time it takes for the drug effects to hit. 
+
 ### Results
-- The results captured observe the dynamics of drug concentration in different compartments over time.
 
