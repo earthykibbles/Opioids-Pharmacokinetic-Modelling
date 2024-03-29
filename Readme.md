@@ -22,7 +22,7 @@
  #### Central Compartment 
 ```math
 $$
-\frac{\text{d}x_b}{\text{d}t} = -(k_b + k_e)x_b(t) + k_tx_t(t)\\
+\frac{\text{d}x_b}{\text{d}t} = -(k_b + k_e)x_b(t) + k_tx_t(t)
 $$
 ```
 
@@ -33,6 +33,16 @@ $$
 $$
 ```
 
+#### Model Constants 
+These constants are gathered from pharmaceutical studies done on each drug by independent researchers. Better results can be acquired from more credible sources.
+**NOTE**: kb and kt can be used synonymously with k12 and k21. 
+
+|Drug         |ke  |kt  |kb  |
+|:------------|:---|:---|:---|
+|Buprenorphine|    |    |    |
+|Methadone    |    |    |    |
+|Tramadol     |    |    |    |
+|Tapentadol   |    |    |    |
 
 ### Results
 - The results captured observe the dynamics of drug concentration in different compartments over time.

@@ -49,14 +49,5 @@ int main()
 		xb0 = xbn;
 		xt0 = xtn;
 	}
-	std::vector<double> y = { 1, 3, 2, 4 };
-	plt::plot(y);
-
-
-	plt::figure(); // declare a new figure (optional if only one is used)
-
-	std::cout << "Boutta Graph";
-	plt::plot(y);
-	//plt::plot(xt);
 }
 
